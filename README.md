@@ -30,4 +30,18 @@ jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
 ```
 
 ##  Open URL in a browser
+
+```
 http://127.0.0.1:8888/?token=<COPY_YOUR_TOKEN_ HERE>
+```
+
+##  Run this block if running the notebook through NESI
+
+```
+module load Python
+os.system("module load BLAST")
+pip install --prefix=~/PyPackages jupyter
+pip install --prefix=~/PyPackages ete3
+export PATH=$PATH:~/PyPackages/bin
+export PYTHONPATH=$PYTHONPATH:~/PyPackages/lib/python3.7/site-packages/
+```

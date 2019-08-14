@@ -9,7 +9,8 @@ RUN pip install --upgrade pip \
   ete3 \
   jupyter \
   pandas \
-  xlrd
+  xlrd \
+  ncbi-genome-download
 CMD echo 'You are ready to run "The Phylogenetic Tree of Plastic Degraders"'
 
 
