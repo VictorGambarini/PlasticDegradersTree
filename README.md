@@ -38,10 +38,12 @@ http://127.0.0.1:8888/?token=<COPY_YOUR_TOKEN_ HERE>
 ##  Run this block if running the notebook through NESI
 
 ```
+ssh -L 8082:localhost:8082 mahuika
 module load Python
 os.system("module load BLAST")
 pip install --prefix=~/PyPackages jupyter
 pip install --prefix=~/PyPackages ete3
 export PATH=$PATH:~/PyPackages/bin
 export PYTHONPATH=$PYTHONPATH:~/PyPackages/lib/python3.7/site-packages/
+jupyter notebook --no-browser --port=8082
 ```
