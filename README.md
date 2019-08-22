@@ -43,6 +43,7 @@ module load Python
 os.system("module load BLAST")
 pip install --prefix=~/PyPackages jupyter
 pip install --prefix=~/PyPackages ete3
+pip install --prefix=~/PyPackages seaborn
 export PATH=$PATH:~/PyPackages/bin
 export PYTHONPATH=$PYTHONPATH:~/PyPackages/lib/python3.7/site-packages/
 jupyter notebook --no-browser --port=8082
