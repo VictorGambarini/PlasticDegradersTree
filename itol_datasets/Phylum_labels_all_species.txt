@@ -1,0 +1,59 @@
+DATASET_TEXT
+SEPARATOR COMMA
+DATASET_LABEL,Phylum Labels
+COLOR,#ff0000
+MARGIN,0
+SHOW_INTERNAL,1
+LABEL_ROTATION,0
+STRAIGHT_LABELS,0
+ALIGN_TO_TREE,0
+SIZE_FACTOR,0
+DATA
+
+inode1224,Proteobacteria,0,#db5f57,bold,10,0
+inode1752725,Candidatus Collierbacteria,0,#db7057,bold,10,0
+inode1752722,Candidatus Woesebacteria,0,#db8157,bold,10,0
+inode67820,Candidatus Microgenomates,0,#db9157,bold,10,0
+inode1817898,Candidatus Blackburnbacteria,0,#dba257,bold,10,0
+inode1752718,Candidatus Daviesbacteria,0,#dbb357,bold,10,0
+inode1817910,Candidatus Lloydbacteria,0,#dbc457,bold,10,0
+inode1752729,Candidatus Nomurabacteria,0,#dbd557,bold,10,0
+inode422282,candidate division WWE3,0,#d1db57,bold,10,0
+inode95818,Candidatus Saccharibacteria,0,#c0db57,bold,10,0
+inode1052197,Candidatus Calescamantes,0,#afdb57,bold,10,0
+inode67817,Candidatus Aminicenantes,0,#9edb57,bold,10,0
+inode1239,Firmicutes,0,#8ddb57,bold,10,0
+inode201174,Actinobacteria,0,#7cdb57,bold,10,0
+inode1117,Cyanobacteria,0,#6bdb57,bold,10,0
+inode1798710,Candidatus Melainabacteria,0,#5adb57,bold,10,0
+inode544448,Tenericutes,0,#57db64,bold,10,0
+inode1297,Deinococcus-Thermus,0,#57db75,bold,10,0
+inode200795,Chloroflexi,0,#57db86,bold,10,0
+inode976,Bacteroidetes,0,#57db97,bold,10,0
+inode1090,Chlorobi,0,#57dba8,bold,10,0
+inode62680,Candidatus Marinimicrobia,0,#57dbb9,bold,10,0
+inode142182,Gemmatimonadetes,0,#57dbca,bold,10,0
+inode456828,Candidatus Cloacimonetes,0,#57dbdb,bold,10,0
+inode200918,Thermotogae,0,#57cbdb,bold,10,0
+inode200783,Aquificae,0,#57badb,bold,10,0
+inode203691,Spirochaetes,0,#57a9db,bold,10,0
+inode32066,Fusobacteria,0,#5798db,bold,10,0
+inode57723,Acidobacteria,0,#5787db,bold,10,0
+inode74201,Verrucomicrobia,0,#5776db,bold,10,0
+inode203682,Planctomycetes,0,#5765db,bold,10,0
+inode204428,Chlamydiae,0,#5957db,bold,10,0
+inode67812,Candidatus Omnitrophica,0,#6a57db,bold,10,0
+inode40117,Nitrospirae,0,#7b57db,bold,10,0
+inode5204,Basidiomycota,0,#8c57db,bold,10,0
+inode4890,Ascomycota,0,#9d57db,bold,10,0
+inode1913637,Mucoromycota,0,#ae57db,bold,10,0
+inode6029,Microsporidia,0,#bf57db,bold,10,0
+inode1913638,Zoopagomycota,0,#d057db,bold,10,0
+inode6073,Cnidaria,0,#db57d6,bold,10,0
+inode1801631,Candidatus Micrarchaeota,0,#db57c5,bold,10,0
+inode28890,Euryarchaeota,0,#db57b4,bold,10,0
+inode928852,Candidatus Bathyarchaeota,0,#db57a3,bold,10,0
+inode28889,Crenarchaeota,0,#db5792,bold,10,0
+inode651137,Thaumarchaeota,0,#db5782,bold,10,0
+inode1936272,Candidatus Heimdallarchaeota,0,#db5771,bold,10,0
+inode2497569,Negarnaviricota,0,#db5760,bold,10,0

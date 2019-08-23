@@ -1,0 +1,51 @@
+TREE_COLORS
+SEPARATOR COMMA
+DATA
+
+inode1224,range,#db5f57,Proteobacteria
+inode1752725,range,#db7057,Candidatus Collierbacteria
+inode1752722,range,#db8157,Candidatus Woesebacteria
+inode67820,range,#db9157,Candidatus Microgenomates
+inode1817898,range,#dba257,Candidatus Blackburnbacteria
+inode1752718,range,#dbb357,Candidatus Daviesbacteria
+inode1817910,range,#dbc457,Candidatus Lloydbacteria
+inode1752729,range,#dbd557,Candidatus Nomurabacteria
+inode422282,range,#d1db57,candidate division WWE3
+inode95818,range,#c0db57,Candidatus Saccharibacteria
+inode1052197,range,#afdb57,Candidatus Calescamantes
+inode67817,range,#9edb57,Candidatus Aminicenantes
+inode1239,range,#8ddb57,Firmicutes
+inode201174,range,#7cdb57,Actinobacteria
+inode1117,range,#6bdb57,Cyanobacteria
+inode1798710,range,#5adb57,Candidatus Melainabacteria
+inode544448,range,#57db64,Tenericutes
+inode1297,range,#57db75,Deinococcus-Thermus
+inode200795,range,#57db86,Chloroflexi
+inode976,range,#57db97,Bacteroidetes
+inode1090,range,#57dba8,Chlorobi
+inode62680,range,#57dbb9,Candidatus Marinimicrobia
+inode142182,range,#57dbca,Gemmatimonadetes
+inode456828,range,#57dbdb,Candidatus Cloacimonetes
+inode200918,range,#57cbdb,Thermotogae
+inode200783,range,#57badb,Aquificae
+inode203691,range,#57a9db,Spirochaetes
+inode32066,range,#5798db,Fusobacteria
+inode57723,range,#5787db,Acidobacteria
+inode74201,range,#5776db,Verrucomicrobia
+inode203682,range,#5765db,Planctomycetes
+inode204428,range,#5957db,Chlamydiae
+inode67812,range,#6a57db,Candidatus Omnitrophica
+inode40117,range,#7b57db,Nitrospirae
+inode5204,range,#8c57db,Basidiomycota
+inode4890,range,#9d57db,Ascomycota
+inode1913637,range,#ae57db,Mucoromycota
+inode6029,range,#bf57db,Microsporidia
+inode1913638,range,#d057db,Zoopagomycota
+inode6073,range,#db57d6,Cnidaria
+inode1801631,range,#db57c5,Candidatus Micrarchaeota
+inode28890,range,#db57b4,Euryarchaeota
+inode928852,range,#db57a3,Candidatus Bathyarchaeota
+inode28889,range,#db5792,Crenarchaeota
+inode651137,range,#db5782,Thaumarchaeota
+inode1936272,range,#db5771,Candidatus Heimdallarchaeota
+inode2497569,range,#db5760,Negarnaviricota
