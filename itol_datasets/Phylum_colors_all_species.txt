@@ -3,49 +3,72 @@ SEPARATOR COMMA
 DATA
 
 inode1224,range,#db5f57,Proteobacteria
-inode1752725,range,#db7057,Candidatus Collierbacteria
-inode1752722,range,#db8157,Candidatus Woesebacteria
-inode67820,range,#db9157,Candidatus Microgenomates
-inode1817898,range,#dba257,Candidatus Blackburnbacteria
-inode1752718,range,#dbb357,Candidatus Daviesbacteria
-inode1817910,range,#dbc457,Candidatus Lloydbacteria
-inode1752729,range,#dbd557,Candidatus Nomurabacteria
-inode422282,range,#d1db57,candidate division WWE3
-inode95818,range,#c0db57,Candidatus Saccharibacteria
-inode1052197,range,#afdb57,Candidatus Calescamantes
-inode67817,range,#9edb57,Candidatus Aminicenantes
-inode1239,range,#8ddb57,Firmicutes
-inode201174,range,#7cdb57,Actinobacteria
-inode1117,range,#6bdb57,Cyanobacteria
-inode1798710,range,#5adb57,Candidatus Melainabacteria
-inode544448,range,#57db64,Tenericutes
-inode1297,range,#57db75,Deinococcus-Thermus
-inode200795,range,#57db86,Chloroflexi
-inode976,range,#57db97,Bacteroidetes
-inode1090,range,#57dba8,Chlorobi
-inode62680,range,#57dbb9,Candidatus Marinimicrobia
-inode142182,range,#57dbca,Gemmatimonadetes
-inode456828,range,#57dbdb,Candidatus Cloacimonetes
-inode200918,range,#57cbdb,Thermotogae
-inode200783,range,#57badb,Aquificae
-inode203691,range,#57a9db,Spirochaetes
-inode32066,range,#5798db,Fusobacteria
-inode57723,range,#5787db,Acidobacteria
-inode74201,range,#5776db,Verrucomicrobia
-inode203682,range,#5765db,Planctomycetes
-inode204428,range,#5957db,Chlamydiae
-inode67812,range,#6a57db,Candidatus Omnitrophica
-inode40117,range,#7b57db,Nitrospirae
-inode5204,range,#8c57db,Basidiomycota
-inode4890,range,#9d57db,Ascomycota
-inode1913637,range,#ae57db,Mucoromycota
-inode6029,range,#bf57db,Microsporidia
-inode1913638,range,#d057db,Zoopagomycota
-inode6073,range,#db57d6,Cnidaria
-inode1801631,range,#db57c5,Candidatus Micrarchaeota
-inode28890,range,#db57b4,Euryarchaeota
-inode928852,range,#db57a3,Candidatus Bathyarchaeota
-inode28889,range,#db5792,Crenarchaeota
-inode651137,range,#db5782,Thaumarchaeota
-inode1936272,range,#db5771,Candidatus Heimdallarchaeota
-inode2497569,range,#db5760,Negarnaviricota
+inode1817923,range,#db6a57,Candidatus Wildermuthbacteria
+inode1817902,range,#db7557,Candidatus Brennerbacteria
+inode1752741,range,#db8157,Candidatus Azambacteria
+inode1752736,range,#db8c57,Candidatus Adlerbacteria
+inode1817901,range,#db9757,Candidatus Andersenbacteria
+inode1752728,range,#dba357,Candidatus Falkowbacteria
+inode1752734,range,#dbae57,Candidatus Kaiserbacteria
+inode1817909,range,#dbba57,Candidatus Liptonbacteria
+inode1752731,range,#dbc557,Candidatus Magasanikbacteria
+inode1817911,range,#dbd057,Candidatus Nealsonbacteria
+inode1752737,range,#dbdb57,Candidatus Moranbacteria
+inode1817914,range,#d0db57,Candidatus Ryanbacteria
+inode1817916,range,#c4db57,Candidatus Staskawiczbacteria
+inode1752718,range,#b9db57,Candidatus Daviesbacteria
+inode1752717,range,#addb57,Candidatus Curtissbacteria
+inode1752719,range,#a2db57,Candidatus Levybacteria
+inode640293,range,#97db57,candidate division NC10
+inode67817,range,#8bdb57,Candidatus Aminicenantes
+inode67810,range,#80db57,Candidatus Bipolaricaulota
+inode1619053,range,#75db57,Candidatus Peregrinibacteria
+inode1618339,range,#69db57,candidate division CPR2
+inode422282,range,#5edb57,candidate division WWE3
+inode1817805,range,#57db5b,Candidatus Glassbacteria
+inode1752716,range,#57db66,Candidatus Dadabacteria
+inode95818,range,#57db72,Candidatus Saccharibacteria
+inode1130266,range,#57db7d,Candidatus Hydrothermae
+inode1052197,range,#57db88,Candidatus Calescamantes
+inode976,range,#57db94,Bacteroidetes
+inode1090,range,#57db9f,Chlorobi
+inode1853220,range,#57dbaa,Rhodothermaeota
+inode142182,range,#57dbb6,Gemmatimonadetes
+inode62680,range,#57dbc1,Candidatus Marinimicrobia
+inode65842,range,#57dbcd,Fibrobacteres
+inode1729712,range,#57dbd8,Candidatus Fermentibacteria
+inode456828,range,#57d3db,Candidatus Cloacimonetes
+inode201174,range,#57c8db,Actinobacteria
+inode1117,range,#57bddb,Cyanobacteria
+inode1798710,range,#57b1db,Candidatus Melainabacteria
+inode544448,range,#57a6db,Tenericutes
+inode1239,range,#579bdb,Firmicutes
+inode200795,range,#578fdb,Chloroflexi
+inode1297,range,#5784db,Deinococcus-Thermus
+inode67819,range,#5778db,Armatimonadetes
+inode203691,range,#576ddb,Spirochaetes
+inode40117,range,#5762db,Nitrospirae
+inode74201,range,#5757db,Verrucomicrobia
+inode203682,range,#6257db,Planctomycetes
+inode67812,range,#6e57db,Candidatus Omnitrophica
+inode204428,range,#7957db,Chlamydiae
+inode256845,range,#8557db,Lentisphaerae
+inode57723,range,#9057db,Acidobacteria
+inode508458,range,#9b57db,Synergistetes
+inode200918,range,#a757db,Thermotogae
+inode200783,range,#b257db,Aquificae
+inode32066,range,#bd57db,Fusobacteria
+inode200930,range,#c957db,Deferribacteres
+inode4890,range,#d457db,Ascomycota
+inode5204,range,#db57d7,Basidiomycota
+inode1913637,range,#db57cc,Mucoromycota
+inode1913638,range,#db57c0,Zoopagomycota
+inode4761,range,#db57b5,Chytridiomycota
+inode6029,range,#db57aa,Microsporidia
+inode6073,range,#db579e,Cnidaria
+inode28889,range,#db5793,Crenarchaeota
+inode928852,range,#db5788,Candidatus Bathyarchaeota
+inode651137,range,#db577c,Thaumarchaeota
+inode28890,range,#db5771,Euryarchaeota
+inode1936272,range,#db5765,Candidatus Heimdallarchaeota
+inode2497569,range,#db575a,Negarnaviricota

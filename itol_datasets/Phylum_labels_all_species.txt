@@ -11,49 +11,72 @@ SIZE_FACTOR,0
 DATA
 
 inode1224,Proteobacteria,0,#db5f57,bold,10,0
-inode1752725,Candidatus Collierbacteria,0,#db7057,bold,10,0
-inode1752722,Candidatus Woesebacteria,0,#db8157,bold,10,0
-inode67820,Candidatus Microgenomates,0,#db9157,bold,10,0
-inode1817898,Candidatus Blackburnbacteria,0,#dba257,bold,10,0
-inode1752718,Candidatus Daviesbacteria,0,#dbb357,bold,10,0
-inode1817910,Candidatus Lloydbacteria,0,#dbc457,bold,10,0
-inode1752729,Candidatus Nomurabacteria,0,#dbd557,bold,10,0
-inode422282,candidate division WWE3,0,#d1db57,bold,10,0
-inode95818,Candidatus Saccharibacteria,0,#c0db57,bold,10,0
-inode1052197,Candidatus Calescamantes,0,#afdb57,bold,10,0
-inode67817,Candidatus Aminicenantes,0,#9edb57,bold,10,0
-inode1239,Firmicutes,0,#8ddb57,bold,10,0
-inode201174,Actinobacteria,0,#7cdb57,bold,10,0
-inode1117,Cyanobacteria,0,#6bdb57,bold,10,0
-inode1798710,Candidatus Melainabacteria,0,#5adb57,bold,10,0
-inode544448,Tenericutes,0,#57db64,bold,10,0
-inode1297,Deinococcus-Thermus,0,#57db75,bold,10,0
-inode200795,Chloroflexi,0,#57db86,bold,10,0
-inode976,Bacteroidetes,0,#57db97,bold,10,0
-inode1090,Chlorobi,0,#57dba8,bold,10,0
-inode62680,Candidatus Marinimicrobia,0,#57dbb9,bold,10,0
-inode142182,Gemmatimonadetes,0,#57dbca,bold,10,0
-inode456828,Candidatus Cloacimonetes,0,#57dbdb,bold,10,0
-inode200918,Thermotogae,0,#57cbdb,bold,10,0
-inode200783,Aquificae,0,#57badb,bold,10,0
-inode203691,Spirochaetes,0,#57a9db,bold,10,0
-inode32066,Fusobacteria,0,#5798db,bold,10,0
-inode57723,Acidobacteria,0,#5787db,bold,10,0
-inode74201,Verrucomicrobia,0,#5776db,bold,10,0
-inode203682,Planctomycetes,0,#5765db,bold,10,0
-inode204428,Chlamydiae,0,#5957db,bold,10,0
-inode67812,Candidatus Omnitrophica,0,#6a57db,bold,10,0
-inode40117,Nitrospirae,0,#7b57db,bold,10,0
-inode5204,Basidiomycota,0,#8c57db,bold,10,0
-inode4890,Ascomycota,0,#9d57db,bold,10,0
-inode1913637,Mucoromycota,0,#ae57db,bold,10,0
-inode6029,Microsporidia,0,#bf57db,bold,10,0
-inode1913638,Zoopagomycota,0,#d057db,bold,10,0
-inode6073,Cnidaria,0,#db57d6,bold,10,0
-inode1801631,Candidatus Micrarchaeota,0,#db57c5,bold,10,0
-inode28890,Euryarchaeota,0,#db57b4,bold,10,0
-inode928852,Candidatus Bathyarchaeota,0,#db57a3,bold,10,0
-inode28889,Crenarchaeota,0,#db5792,bold,10,0
-inode651137,Thaumarchaeota,0,#db5782,bold,10,0
-inode1936272,Candidatus Heimdallarchaeota,0,#db5771,bold,10,0
-inode2497569,Negarnaviricota,0,#db5760,bold,10,0
+inode1817923,Candidatus Wildermuthbacteria,0,#db6a57,bold,10,0
+inode1817902,Candidatus Brennerbacteria,0,#db7557,bold,10,0
+inode1752741,Candidatus Azambacteria,0,#db8157,bold,10,0
+inode1752736,Candidatus Adlerbacteria,0,#db8c57,bold,10,0
+inode1817901,Candidatus Andersenbacteria,0,#db9757,bold,10,0
+inode1752728,Candidatus Falkowbacteria,0,#dba357,bold,10,0
+inode1752734,Candidatus Kaiserbacteria,0,#dbae57,bold,10,0
+inode1817909,Candidatus Liptonbacteria,0,#dbba57,bold,10,0
+inode1752731,Candidatus Magasanikbacteria,0,#dbc557,bold,10,0
+inode1817911,Candidatus Nealsonbacteria,0,#dbd057,bold,10,0
+inode1752737,Candidatus Moranbacteria,0,#dbdb57,bold,10,0
+inode1817914,Candidatus Ryanbacteria,0,#d0db57,bold,10,0
+inode1817916,Candidatus Staskawiczbacteria,0,#c4db57,bold,10,0
+inode1752718,Candidatus Daviesbacteria,0,#b9db57,bold,10,0
+inode1752717,Candidatus Curtissbacteria,0,#addb57,bold,10,0
+inode1752719,Candidatus Levybacteria,0,#a2db57,bold,10,0
+inode640293,candidate division NC10,0,#97db57,bold,10,0
+inode67817,Candidatus Aminicenantes,0,#8bdb57,bold,10,0
+inode67810,Candidatus Bipolaricaulota,0,#80db57,bold,10,0
+inode1619053,Candidatus Peregrinibacteria,0,#75db57,bold,10,0
+inode1618339,candidate division CPR2,0,#69db57,bold,10,0
+inode422282,candidate division WWE3,0,#5edb57,bold,10,0
+inode1817805,Candidatus Glassbacteria,0,#57db5b,bold,10,0
+inode1752716,Candidatus Dadabacteria,0,#57db66,bold,10,0
+inode95818,Candidatus Saccharibacteria,0,#57db72,bold,10,0
+inode1130266,Candidatus Hydrothermae,0,#57db7d,bold,10,0
+inode1052197,Candidatus Calescamantes,0,#57db88,bold,10,0
+inode976,Bacteroidetes,0,#57db94,bold,10,0
+inode1090,Chlorobi,0,#57db9f,bold,10,0
+inode1853220,Rhodothermaeota,0,#57dbaa,bold,10,0
+inode142182,Gemmatimonadetes,0,#57dbb6,bold,10,0
+inode62680,Candidatus Marinimicrobia,0,#57dbc1,bold,10,0
+inode65842,Fibrobacteres,0,#57dbcd,bold,10,0
+inode1729712,Candidatus Fermentibacteria,0,#57dbd8,bold,10,0
+inode456828,Candidatus Cloacimonetes,0,#57d3db,bold,10,0
+inode201174,Actinobacteria,0,#57c8db,bold,10,0
+inode1117,Cyanobacteria,0,#57bddb,bold,10,0
+inode1798710,Candidatus Melainabacteria,0,#57b1db,bold,10,0
+inode544448,Tenericutes,0,#57a6db,bold,10,0
+inode1239,Firmicutes,0,#579bdb,bold,10,0
+inode200795,Chloroflexi,0,#578fdb,bold,10,0
+inode1297,Deinococcus-Thermus,0,#5784db,bold,10,0
+inode67819,Armatimonadetes,0,#5778db,bold,10,0
+inode203691,Spirochaetes,0,#576ddb,bold,10,0
+inode40117,Nitrospirae,0,#5762db,bold,10,0
+inode74201,Verrucomicrobia,0,#5757db,bold,10,0
+inode203682,Planctomycetes,0,#6257db,bold,10,0
+inode67812,Candidatus Omnitrophica,0,#6e57db,bold,10,0
+inode204428,Chlamydiae,0,#7957db,bold,10,0
+inode256845,Lentisphaerae,0,#8557db,bold,10,0
+inode57723,Acidobacteria,0,#9057db,bold,10,0
+inode508458,Synergistetes,0,#9b57db,bold,10,0
+inode200918,Thermotogae,0,#a757db,bold,10,0
+inode200783,Aquificae,0,#b257db,bold,10,0
+inode32066,Fusobacteria,0,#bd57db,bold,10,0
+inode200930,Deferribacteres,0,#c957db,bold,10,0
+inode4890,Ascomycota,0,#d457db,bold,10,0
+inode5204,Basidiomycota,0,#db57d7,bold,10,0
+inode1913637,Mucoromycota,0,#db57cc,bold,10,0
+inode1913638,Zoopagomycota,0,#db57c0,bold,10,0
+inode4761,Chytridiomycota,0,#db57b5,bold,10,0
+inode6029,Microsporidia,0,#db57aa,bold,10,0
+inode6073,Cnidaria,0,#db579e,bold,10,0
+inode28889,Crenarchaeota,0,#db5793,bold,10,0
+inode928852,Candidatus Bathyarchaeota,0,#db5788,bold,10,0
+inode651137,Thaumarchaeota,0,#db577c,bold,10,0
+inode28890,Euryarchaeota,0,#db5771,bold,10,0
+inode1936272,Candidatus Heimdallarchaeota,0,#db5765,bold,10,0
+inode2497569,Negarnaviricota,0,#db575a,bold,10,0
