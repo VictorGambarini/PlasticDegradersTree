@@ -40,6 +40,7 @@ http://127.0.0.1:8888/?token=<COPY_YOUR_TOKEN_ HERE>
 ```
 ssh -L 8082:localhost:8082 mahuika
 module load Python
+module load Anaconda3
 os.system("module load BLAST")
 pip install --prefix=~/PyPackages jupyter
 pip install --prefix=~/PyPackages ete3
