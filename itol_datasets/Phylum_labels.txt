@@ -10,11 +10,11 @@ ALIGN_TO_TREE,0
 SIZE_FACTOR,0
 DATA
 
-inode201174,Actinobacteria,0,#db5f57,bold,10,0
-inode1239,Firmicutes,0,#dbc257,bold,10,0
-inode1117,Cyanobacteria,0,#91db57,bold,10,0
-inode1224,Proteobacteria,0,#57db80,bold,10,0
-inode976,Bacteroidetes,0,#57d3db,bold,10,0
-inode4890,Ascomycota,0,#5770db,bold,10,0
-inode5204,Basidiomycota,0,#a157db,bold,10,0
-inode1913637,Mucoromycota,0,#db57b2,bold,10,0
+I236,Proteobacteria,0,#57db80,bold,10,0
+I444,Bacteroidetes,0,#57d3db,bold,10,0
+I4,Actinobacteria,0,#db5f57,bold,10,0
+I134,Firmicutes,0,#dbc257,bold,10,0
+I735,Mucoromycota,0,#db57b2,bold,10,0
+I461,Ascomycota,0,#a157db,bold,10,0
+I677,Basidiomycota,0,#5770db,bold,10,0
+I227,Cyanobacteria,0,#91db57,bold,10,0

@@ -2,11 +2,11 @@ TREE_COLORS
 SEPARATOR COMMA
 DATA
 
-inode201174,range,#db5f57,Actinobacteria
-inode1239,range,#dbc257,Firmicutes
-inode1117,range,#91db57,Cyanobacteria
-inode1224,range,#57db80,Proteobacteria
-inode976,range,#57d3db,Bacteroidetes
-inode4890,range,#5770db,Ascomycota
-inode5204,range,#a157db,Basidiomycota
-inode1913637,range,#db57b2,Mucoromycota
+I236,range,#57db80,Proteobacteria
+I444,range,#57d3db,Bacteroidetes
+I4,range,#db5f57,Actinobacteria
+I134,range,#dbc257,Firmicutes
+I735,range,#db57b2,Mucoromycota
+I461,range,#a157db,Ascomycota
+I677,range,#5770db,Basidiomycota
+I227,range,#91db57,Cyanobacteria
