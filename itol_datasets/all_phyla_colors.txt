@@ -1,0 +1,14 @@
+TREE_COLORS
+SEPARATOR COMMA
+DATA
+
+1224,label,#000000,bold,1
+976,label,#000000,bold,1
+201174,label,#000000,bold,1
+1239,label,#000000,bold,1
+1913637,label,#000000,bold,1
+4890,label,#000000,bold,1
+5204,label,#000000,bold,1
+1117,label,#000000,bold,1
+I1,range,#c8df99,Bacteria
+I46,range,#b5c0dc,Fungi
