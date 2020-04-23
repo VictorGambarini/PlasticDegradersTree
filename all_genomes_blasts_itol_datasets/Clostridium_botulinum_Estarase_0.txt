@@ -1,0 +1,14 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Clostridium_botulinum_Estarase_0
+COLOR,#dbae57
+FIELD_COLORS,#dbae57
+FIELD_LABELS,Clostridium_botulinum_Estarase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#dbae57
+LEGEND_LABELS,Clostridium_botulinum_Estarase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1239,561

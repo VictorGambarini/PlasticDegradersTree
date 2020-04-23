@@ -1,0 +1,18 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,uncultured_bacterium_Carboxylesterase_0
+COLOR,#5795db
+FIELD_COLORS,#5795db
+FIELD_LABELS,uncultured_bacterium_Carboxylesterase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#5795db
+LEGEND_LABELS,uncultured_bacterium_Carboxylesterase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1224,1382
+200795,2
+1239,13
+203682,1
+1802339,1

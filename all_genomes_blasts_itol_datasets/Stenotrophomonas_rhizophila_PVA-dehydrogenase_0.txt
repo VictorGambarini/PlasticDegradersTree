@@ -1,0 +1,14 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Stenotrophomonas_rhizophila_PVA-dehydrogenase_0
+COLOR,#dbd257
+FIELD_COLORS,#dbd257
+FIELD_LABELS,Stenotrophomonas_rhizophila_PVA-dehydrogenase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#dbd257
+LEGEND_LABELS,Stenotrophomonas_rhizophila_PVA-dehydrogenase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1224,499

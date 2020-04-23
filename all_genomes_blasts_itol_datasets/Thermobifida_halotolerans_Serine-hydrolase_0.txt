@@ -1,0 +1,15 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Thermobifida_halotolerans_Serine-hydrolase_0
+COLOR,#579edb
+FIELD_COLORS,#579edb
+FIELD_LABELS,Thermobifida_halotolerans_Serine-hydrolase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#579edb
+LEGEND_LABELS,Thermobifida_halotolerans_Serine-hydrolase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+201174,494
+1224,1

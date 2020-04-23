@@ -1,0 +1,15 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Acidovorax_delafieldii_PBS_depolymerase_0
+COLOR,#d3db57
+FIELD_COLORS,#d3db57
+FIELD_LABELS,Acidovorax_delafieldii_PBS_depolymerase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#d3db57
+LEGEND_LABELS,Acidovorax_delafieldii_PBS_depolymerase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1224,65
+201174,484

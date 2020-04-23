@@ -1,0 +1,15 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Moesziomyces_antarcticus_Cutinase_0
+COLOR,#dbda57
+FIELD_COLORS,#dbda57
+FIELD_LABELS,Moesziomyces_antarcticus_Cutinase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#dbda57
+LEGEND_LABELS,Moesziomyces_antarcticus_Cutinase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+5204,13
+4890,33

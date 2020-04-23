@@ -1,0 +1,14 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Pseudomonas_chlororaphis_PueA,_polyurethane_esterase_A_0
+COLOR,#577bdb
+FIELD_COLORS,#577bdb
+FIELD_LABELS,Pseudomonas_chlororaphis_PueA,_polyurethane_esterase_A_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#577bdb
+LEGEND_LABELS,Pseudomonas_chlororaphis_PueA,_polyurethane_esterase_A_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1224,988

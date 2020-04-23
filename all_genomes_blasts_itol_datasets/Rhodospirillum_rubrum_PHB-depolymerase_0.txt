@@ -1,0 +1,15 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Rhodospirillum_rubrum_PHB-depolymerase_0
+COLOR,#57dbda
+FIELD_COLORS,#57dbda
+FIELD_LABELS,Rhodospirillum_rubrum_PHB-depolymerase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#57dbda
+LEGEND_LABELS,Rhodospirillum_rubrum_PHB-depolymerase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1224,569
+201174,2

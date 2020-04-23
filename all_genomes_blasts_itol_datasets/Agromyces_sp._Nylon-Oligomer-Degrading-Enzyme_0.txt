@@ -1,0 +1,15 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Agromyces_sp._Nylon-Oligomer-Degrading-Enzyme_0
+COLOR,#db9457
+FIELD_COLORS,#db9457
+FIELD_LABELS,Agromyces_sp._Nylon-Oligomer-Degrading-Enzyme_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#db9457
+LEGEND_LABELS,Agromyces_sp._Nylon-Oligomer-Degrading-Enzyme_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+201174,125
+1224,584

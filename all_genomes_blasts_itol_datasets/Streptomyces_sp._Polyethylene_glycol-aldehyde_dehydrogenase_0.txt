@@ -1,0 +1,16 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Streptomyces_sp._Polyethylene_glycol-aldehyde_dehydrogenase_0
+COLOR,#8257db
+FIELD_COLORS,#8257db
+FIELD_LABELS,Streptomyces_sp._Polyethylene_glycol-aldehyde_dehydrogenase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#8257db
+LEGEND_LABELS,Streptomyces_sp._Polyethylene_glycol-aldehyde_dehydrogenase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1224,457
+1117,2
+201174,2401

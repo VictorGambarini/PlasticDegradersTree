@@ -1,0 +1,16 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Caldimonas_manganoxidans_PHB-depolymerase_0
+COLOR,#db57cb
+FIELD_COLORS,#db57cb
+FIELD_LABELS,Caldimonas_manganoxidans_PHB-depolymerase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#db57cb
+LEGEND_LABELS,Caldimonas_manganoxidans_PHB-depolymerase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1224,497
+201174,12
+4890,16

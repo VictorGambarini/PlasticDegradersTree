@@ -1,0 +1,14 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,uncultured_bacterium_PLA-depolymerase_0
+COLOR,#da57db
+FIELD_COLORS,#da57db
+FIELD_LABELS,uncultured_bacterium_PLA-depolymerase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#da57db
+LEGEND_LABELS,uncultured_bacterium_PLA-depolymerase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1239,593

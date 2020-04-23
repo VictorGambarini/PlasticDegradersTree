@@ -1,0 +1,15 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Thermobifida_cellulosilytica_Cutinase_0
+COLOR,#dbc057
+FIELD_COLORS,#dbc057
+FIELD_LABELS,Thermobifida_cellulosilytica_Cutinase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#dbc057
+LEGEND_LABELS,Thermobifida_cellulosilytica_Cutinase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+201174,493
+1224,2

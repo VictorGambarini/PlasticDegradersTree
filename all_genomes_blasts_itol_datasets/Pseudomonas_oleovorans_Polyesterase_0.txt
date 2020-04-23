@@ -1,0 +1,15 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Pseudomonas_oleovorans_Polyesterase_0
+COLOR,#db5784
+FIELD_COLORS,#db5784
+FIELD_LABELS,Pseudomonas_oleovorans_Polyesterase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#db5784
+LEGEND_LABELS,Pseudomonas_oleovorans_Polyesterase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1224,491
+1239,1

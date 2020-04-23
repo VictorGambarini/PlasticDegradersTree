@@ -1,0 +1,15 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Alcaligenes_faecalis_PHB-depolymerase_0
+COLOR,#57db9d
+FIELD_COLORS,#57db9d
+FIELD_LABELS,Alcaligenes_faecalis_PHB-depolymerase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#57db9d
+LEGEND_LABELS,Alcaligenes_faecalis_PHB-depolymerase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1224,437
+201174,78

@@ -1,0 +1,16 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,[Polyangium]_brachysporum_Triacylglycerol-lipase_0
+COLOR,#5760db
+FIELD_COLORS,#5760db
+FIELD_LABELS,[Polyangium]_brachysporum_Triacylglycerol-lipase_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#5760db
+LEGEND_LABELS,[Polyangium]_brachysporum_Triacylglycerol-lipase_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1224,112
+201174,427
+1297,1

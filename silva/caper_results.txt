@@ -1,0 +1,1050 @@
+Plastic type: BTA.copolyester
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -0.7143744
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.257
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.566
+
+Plastic type: Ecoflex
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -1.455443
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.178
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.794
+
+Plastic type: HDPE
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 365
+                     1 = 29
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.7497654
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.041
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: LDPE
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 336
+                     1 = 58
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.7812652
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.007
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: LDPE.Blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 388
+                     1 = 6
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.6275188
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.163
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.101
+
+Plastic type: LLDPE.Blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 392
+                     1 = 2
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -2.106619
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.007
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.992
+
+Plastic type: Mater.Bi
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 392
+                     1 = 2
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  3.244554
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.961
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.003
+
+Plastic type: Nylon
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 386
+                     1 = 8
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  1.204281
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.75
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: Nylon.12
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  1.266045
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.617
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.21
+
+Plastic type: Nylon.4
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 392
+                     1 = 2
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  1.569028
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.719
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.057
+
+Plastic type: Nylon.6
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  12.0656
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.997
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: Nylon.66
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  1.092573
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.587
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.2
+
+Plastic type: O.PVA
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 392
+                     1 = 2
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.4212612
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.314
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.319
+
+Plastic type: Oxo.biodegradable.PE
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  2.994489
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.811
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.055
+
+Plastic type: P.3HB.co.3HP.
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 392
+                     1 = 2
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.9390978
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.513
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.154
+
+Plastic type: P.3HB.co.3MP.
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 392
+                     1 = 2
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.009807449
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.168
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.509
+
+Plastic type: P.3HB.co.4HB.
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  4.469046
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.876
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.034
+
+Plastic type: P3HO
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 384
+                     1 = 10
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.4419134
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.014
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.114
+
+Plastic type: P3HP
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 387
+                     1 = 7
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.8428069
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.346
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.03
+
+Plastic type: P3HV.Oligomers
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -0.3453143
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.314
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.493
+
+Plastic type: P4HB
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 391
+                     1 = 3
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.9165997
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.486
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.096
+
+Plastic type: PBAT
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 386
+                     1 = 8
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.4223674
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.031
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.161
+
+Plastic type: PBS
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 364
+                     1 = 30
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.7177863
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.016
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: PBS.Blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -1.025604
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.181
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.768
+
+Plastic type: PBS.blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -2.894555
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.051
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.959
+
+Plastic type: PBSA
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 364
+                     1 = 30
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  1.004157
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.519
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: PBSA.blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -2.857857
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.044
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.955
+
+Plastic type: PBSTIL
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -1.357675
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.197
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.777
+
+Plastic type: PC
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 388
+                     1 = 6
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.8916778
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.386
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.022
+
+Plastic type: PCL
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 292
+                     1 = 102
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.8548274
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.012
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: PCL.Blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -1.205034
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.171
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.804
+
+Plastic type: PE
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 318
+                     1 = 76
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.7414772
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: PE.Blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  2.675537
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.796
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.056
+
+Plastic type: PEA
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 389
+                     1 = 5
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  1.012694
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.548
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.022
+
+Plastic type: PEC
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  2.36724
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.731
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.117
+
+Plastic type: PEF
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 392
+                     1 = 2
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  3.392188
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.962
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.002
+
+Plastic type: PEG
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 386
+                     1 = 8
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.4781925
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.056
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.138
+
+Plastic type: PES
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 382
+                     1 = 12
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  1.198228
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.793
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: PESu
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 387
+                     1 = 7
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.5679166
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.089
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.084
+
+Plastic type: PET
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 372
+                     1 = 22
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.620899
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.007
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.004
+
+Plastic type: PHA
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 369
+                     1 = 25
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.8591362
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.166
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: PHA.Blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -0.5957923
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.284
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.511
+
+Plastic type: PHB
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 286
+                     1 = 108
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.6979981
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: PHB.Blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 391
+                     1 = 3
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.6817371
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.355
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.138
+
+Plastic type: PHB.Oligomers
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -0.2297711
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.339
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.448
+
+Plastic type: PHBH
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 381
+                     1 = 13
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.2647901
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.001
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.21
+
+Plastic type: PHBV
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 371
+                     1 = 23
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.9273307
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.311
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: PHBV.Oligomers
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -0.278866
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.34
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.464
+
+Plastic type: PHC
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 385
+                     1 = 9
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.8836205
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.348
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.009
+
+Plastic type: PHN
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -0.3362913
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.31
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.474
+
+Plastic type: PHO
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 391
+                     1 = 3
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.07588629
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.063
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.455
+
+Plastic type: PHPV
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 392
+                     1 = 2
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  1.632112
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.738
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.045
+
+Plastic type: PHV
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 392
+                     1 = 2
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -0.5525047
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.073
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.73
+
+Plastic type: PLA
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 306
+                     1 = 88
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.5399028
+Probability of E(D) resulting from no (random) phylogenetic structure :  0
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: PLA.Blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.335767
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.432
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.4
+
+Plastic type: PMCL
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -2.434197
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.028
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.984
+
+Plastic type: PP
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 380
+                     1 = 14
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.9861051
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.469
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: PPL
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 392
+                     1 = 2
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  1.102978
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.555
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.129
+
+Plastic type: PS
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 379
+                     1 = 15
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.9581901
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.424
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.002
+
+Plastic type: PS.Blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 392
+                     1 = 2
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  1.220961
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.618
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.087
+
+Plastic type: PSS
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 392
+                     1 = 2
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -0.9339488
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.048
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.819
+
+Plastic type: PTC
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -1.488393
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.178
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.809
+
+Plastic type: PTS
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 390
+                     1 = 4
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.45876
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.165
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.222
+
+Plastic type: PU
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 341
+                     1 = 53
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.8080182
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.019
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0
+
+Plastic type: PU.Blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 393
+                     1 = 1
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  1.692071
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.646
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.161
+
+Plastic type: PVA
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 382
+                     1 = 12
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.8668528
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.299
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.003
+
+Plastic type: PVA.Blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 392
+                     1 = 2
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  -1.944289
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.005
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.992
+
+Plastic type: PVC
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 383
+                     1 = 11
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.4545616
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.012
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.097
+
+Plastic type: PVC.Blend
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 390
+                     1 = 4
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.9460919
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.465
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.04
+
+Plastic type: Sky.Green
+
+Calculation of D statistic for the phylogenetic structure of a binary variable
+
+  Data :  df2
+  Binary variable :  PlasticType
+  Counts of states:  0 = 390
+                     1 = 4
+  Phylogeny :  degraders_tree
+  Number of permutations :  1000
+
+Estimated D :  0.7103564
+Probability of E(D) resulting from no (random) phylogenetic structure :  0.313
+Probability of E(D) resulting from Brownian phylogenetic structure    :  0.13
+

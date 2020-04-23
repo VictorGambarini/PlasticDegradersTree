@@ -1,0 +1,16 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Paucimonas_lemoignei_PHB_and_PHV_depolymerases_0
+COLOR,#57dbc0
+FIELD_COLORS,#57dbc0
+FIELD_LABELS,Paucimonas_lemoignei_PHB_and_PHV_depolymerases_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#57dbc0
+LEGEND_LABELS,Paucimonas_lemoignei_PHB_and_PHV_depolymerases_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1224,152
+201174,420
+1239,1

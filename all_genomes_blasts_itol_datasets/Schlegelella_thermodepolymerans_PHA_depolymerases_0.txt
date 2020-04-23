@@ -1,0 +1,16 @@
+DATASET_SIMPLEBAR
+SEPARATOR COMMA
+DATASET_LABEL,Schlegelella_thermodepolymerans_PHA_depolymerases_0
+COLOR,#57a7db
+FIELD_COLORS,#57a7db
+FIELD_LABELS,Schlegelella_thermodepolymerans_PHA_depolymerases_0
+LEGEND_TITLE,Blast Hits
+LEGEND_SHAPES,1
+LEGEND_COLORS,#57a7db
+LEGEND_LABELS,Schlegelella_thermodepolymerans_PHA_depolymerases_0
+WIDTH,200
+SHOW_VALUE,1
+DATA
+1224,499
+201174,12
+4890,8
