@@ -7,6 +7,6 @@ I533,range,#57d3db,Bacteroidetes
 I4,range,#db5f57,Actinobacteria
 I152,range,#dbc257,Firmicutes
 I867,range,#db57b2,Mucoromycota
-I625,range,#a157db,Ascomycota
-I557,range,#5770db,Basidiomycota
+I625,range,#5770db,Ascomycota
+I557,range,#a157db,Basidiomycota
 I255,range,#91db57,Cyanobacteria
