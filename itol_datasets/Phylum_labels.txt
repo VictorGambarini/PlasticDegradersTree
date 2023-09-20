@@ -9,12 +9,3 @@ STRAIGHT_LABELS,0
 ALIGN_TO_TREE,0
 SIZE_FACTOR,0
 DATA
-
-I264,Proteobacteria,0,#57db80,bold,10,0
-I533,Bacteroidetes,0,#57d3db,bold,10,0
-I4,Actinobacteria,0,#db5f57,bold,10,0
-I152,Firmicutes,0,#dbc257,bold,10,0
-I867,Mucoromycota,0,#db57b2,bold,10,0
-I625,Ascomycota,0,#5770db,bold,10,0
-I557,Basidiomycota,0,#a157db,bold,10,0
-I255,Cyanobacteria,0,#91db57,bold,10,0
